@@ -2,7 +2,7 @@
 const auditLog = [];
 const suspiciousActivities = [];
 const failedLogins = {};
-
+console.log("sd")
 // Security thresholds
 const SECURITY_CONFIG = {
   MAX_FAILED_LOGINS: 5,
